@@ -1,3 +1,8 @@
+#include "util.h"
+#include <vector>
+
+
+int main() 
 {
     int num_of_pegs;
     int num_of_colors;
